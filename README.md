@@ -6,7 +6,7 @@ Welcome to my GitHub! I'm currently on a journey to build solid, real-world data
 
 ## 🔧 Tools & Skills
 - 📊 **Power BI** – Dashboards & Data Visualization  
-- 🐍 **Python** – pandas, matplotlib, seaborn for data analysis  
+- 🐍 **Python** – pandas, matplotlib for data analysis  
 - 🗃️ **SQL** – Data extraction & transformation  
 - 📈 **Excel** – Data cleaning, pivot tables, formulas
 
