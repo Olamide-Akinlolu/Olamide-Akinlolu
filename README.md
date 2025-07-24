@@ -1,6 +1,6 @@
 ## Hi 👋 I'm Ola
 
-# 🎯 Data Analyst | Excel | SQL | Python | Power BI
+## 🎯 Data Analyst | Excel | SQL | Python | Power BI
 
 Welcome to my GitHub! I'm currently on a journey to build solid, real-world data analytics skills by working on projects that help turn raw data into actionable insights.
 
